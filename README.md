@@ -1,2 +1,2 @@
 # The-labyrinth
-dis if for steam time
+This is the backup folders for the ARK survival evolved game mod known as The Labyrinth, this is about a massive endless maze that is full of dangerous creatures that try to hunt you down, you wake up inside a cave in the middle of this mysterious land without knowing how you got there or how to get out, explore the maze to find hidden letters and eventually make the password to escape through the hidden door in this maze, the size of the map is a 127x127x16x32 size plain making it the largest map mod for ARK Survival Evolved, currently has backing from several youtubers and working on making a Paypal to gain donations from for it.
